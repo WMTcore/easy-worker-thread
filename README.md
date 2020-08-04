@@ -1,8 +1,8 @@
 # easy-worker-thread
 
 [![NPM version][npm-image]][npm-url]
-[![build status][travis-image]][travis-url]
-[![David deps][david-image]][david-url]
+[![Known Vulnerabilities][snyk-image]][snyk-url]
+[![npm download][download-image]][download-url]
 
 [npm-image]: https://img.shields.io/npm/v/easy-worker-thread.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/easy-worker-thread
